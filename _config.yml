@@ -10,8 +10,8 @@ url: "" https://tsilii.github.io/
 =======
 title:              Manolis Tsilingeridis
 bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Physicist|Upcoming Data Scientist|Analyst|"
-locale:             Thessaloniki,Greece
+description:        "Physicist|Upcoming Data Scientist|Analyst| "
+locale:             Thessaloniki ,Greece
 baseurl: "" #tsilii.github.io
 url: "" # https://tsilii.github.io/
 >>>>>>> c49357b3c5425160152ba2b93cb414b4360d9656
