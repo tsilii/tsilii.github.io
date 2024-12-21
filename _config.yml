@@ -1,25 +1,24 @@
 # Site
 title:              Manolis Tsilingeridis
 bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
-locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-
+description:        "Physicist|Upcoming Data Scientist|Analyst|"
+locale:             Thessaloniki,Greece
+baseurl: "" #tsilii.github.io
+url: "" # https://tsilii.github.io/
 # Comments
 disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+twitter:            -
+facebook:           https://www.facebook.com/manostsilii/
+instagram:          https://www.instagram.com/tsiliys/
+github:             https://www.facebook.com/manostsilii/
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
+location:           Thessaloniki,Greece
+phone:              +306988145065
+email:              manolistsiliggeridis@gmail.com
 
 # Other
 background_image:   /images/bg.jpg
